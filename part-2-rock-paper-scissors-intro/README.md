@@ -10,7 +10,7 @@ Ce **kata** est très simple. Il s'agit de mettre en œuvre le jeu de _pierre-pa
 
 Il s'agit d'un jeu à deux joueurs, si vous ne le connaissez pas, où chaque joueur choisit secrètement une pierre, un papier ou des ciseaux dans son dos. C'est un geste de la main qu'ils tiennent, puis les deux joueurs révèlent leur choix en même temps avec un geste de la main. 🤚✋
 
-![Rock Paper Scissors](https://en.wikipedia.org/wiki/Rock_paper_scissors#/media/File:Rock-paper-scissors.svg "Rock Paper Scissors")
+![img.png](rock-paper-scissors.png "Source Wikipedia")
 
 En règle générale, on compte jusqu'à trois et, à trois, les deux joueurs révèlent leur choix en même temps. L'exercice consiste à créer un backend, une fonction _TypeScript_ pour le jeu qui détermine qui gagne entre les deux joueurs. Il s'agit donc de dire, le joueur 1 a choisi les ciseaux, le joueur 2 a choisi le papier, qui gagne ? Elle accepte les mouvements des joueurs en entrée, les traite selon les règles et renvoie le résultat : quelqu'un a gagné ou il y a eu égalité. 🏆
 
