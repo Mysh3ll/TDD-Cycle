@@ -15,7 +15,7 @@ Le cours sur le cycle TDD aborde les différentes étapes et principes du dével
 3. `part-3-three-laws-of-tdd` : [Les 3 lois du TDD](part-3-three-laws-of-tdd/README.md)
 4. `part-4-red-green-refactor` : [Le cycle de refactorisation rouge-vert](part-4-red-green-refactor/README.md)
 5. `part-5-fake-it-green-bar-pattern` : [Le Fake It Green Bar Pattern](part-5-fake-it-green-bar-pattern/README.md)
-6. `part-6-complete-example-rock-paper-scissors` : [Exemple complet : Rock Paper Scissors](part-6-complete-example-rock-paper-scissors/README.md)
+6. `part-6-complete-example-rock-paper-scissors` : [Exemple complet : Rock Paper Scissors](part-6-complete-example-rock-paper-scissors)
 
 Chaque partie du cours explore un aspect spécifique du cycle TDD, en fournissant des explications théoriques ainsi que des exemples pratiques.
 
